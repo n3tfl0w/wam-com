@@ -3,7 +3,6 @@ date = "2018-10-26T14:54:34+00:00"
 title = "Testy mcTesty"
 
 +++
-
 After a year with the OnePlus 5, I was close to the end of my contract with Vodafone. I wasn’t over the moon with my experience with them so decided to make the move to Three. Three had a deal with the Huawei P20 Pro, with a free set of wireless headphones - the Bose QC35 II (which I still haven’t received), so I decided to make the move. I’ve been using the phone as my primary device for 2 weeks now.
 
 ### Notch
@@ -39,3 +38,5 @@ My one big gripe is the forced inclusion of Swiftkey as a system app. I do not l
 ### Conclusion
 
 So I’m in love with this phone so far. The battery goes for days, the camera is special and the software gets out of my way. Are there some annoyances? Sure, but they seem to be the same annoyances that everyone else has now too. There is one thing on the horizon that I’m interested in though - The OnePlus 6. Am I going to regret pulling the trigger on the P20 Pro too early? We’ll find out in May.
+
+This is how it is. 
