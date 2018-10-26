@@ -2,6 +2,17 @@
 label: Articles
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: sub
+  label: Sub Title
+- type: file
+  name: hero_image
+  label: Hero Image
 pages:
 - content/posts/testy-mctesty.md
