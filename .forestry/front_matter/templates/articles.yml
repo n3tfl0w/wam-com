@@ -2,11 +2,6 @@
 label: Articles
 hide_body: false
 is_partial: false
-fields:
-- type: textarea
-  name: body
-  label: Body
-  config:
-    required: true
+fields: []
 pages:
 - content/posts/testy-mctesty.md
