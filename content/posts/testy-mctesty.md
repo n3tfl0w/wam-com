@@ -1,5 +1,7 @@
 +++
 date = "2018-10-26T14:54:34+00:00"
+hero_image = "/uploads/741c452c558c177231617a8ade9d3e09.jpg"
+sub = ""
 title = "Testy mcTesty"
 
 +++
