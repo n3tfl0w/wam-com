@@ -9,10 +9,22 @@ fields:
   config:
     required: true
 - type: text
-  name: sub
-  label: Sub Title
+  name: description
+  label: description
 - type: file
-  name: hero_image
-  label: Hero Image
+  name: Cover
+  label: Cover
+- type: text
+  name: cover_alt
+  label: cover_alt
+- type: text
+  name: cover_caption
+  label: cover_caption
+- type: text
+  name: cover_title
+  label: cover_title
+- type: boolean
+  name: excerpt
+  label: excerpt
 pages:
 - content/posts/testy-mctesty.md
