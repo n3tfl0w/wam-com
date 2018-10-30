@@ -1,5 +1,11 @@
 +++
+Cover = "/uploads/741c452c558c177231617a8ade9d3e09.jpg"
+cover_alt = ""
+cover_caption = ""
+cover_title = ""
 date = "2018-10-26T14:54:34+00:00"
+description = ""
+excerpt = false
 hero_image = "/uploads/741c452c558c177231617a8ade9d3e09.jpg"
 sub = ""
 title = "Testy mcTesty"
@@ -41,4 +47,4 @@ My one big gripe is the forced inclusion of Swiftkey as a system app. I do not l
 
 So I’m in love with this phone so far. The battery goes for days, the camera is special and the software gets out of my way. Are there some annoyances? Sure, but they seem to be the same annoyances that everyone else has now too. There is one thing on the horizon that I’m interested in though - The OnePlus 6. Am I going to regret pulling the trigger on the P20 Pro too early? We’ll find out in May.
 
-This is how it is. 
+This is how it is.
