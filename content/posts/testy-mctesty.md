@@ -1,10 +1,10 @@
 +++
 Cover = "/uploads/741c452c558c177231617a8ade9d3e09.jpg"
-cover_alt = ""
-cover_caption = ""
-cover_title = ""
+cover_alt = "An image"
+cover_caption = "This is a thing that needs to be done"
+cover_title = "Another thing"
 date = "2018-10-26T14:54:34+00:00"
-description = ""
+description = "This is a testy test post"
 excerpt = false
 hero_image = "/uploads/741c452c558c177231617a8ade9d3e09.jpg"
 sub = ""
