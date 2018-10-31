@@ -1,41 +1,4 @@
-baseURL = "http://wordsandmagic.com/"
-title = "Words and Magic | Art, graphic design, music, movies, and games"
-languageCode = "en-US"
-theme = "indigo"
-
-[params]
-  Author = "Dan O'Neill"
-  Description = "Description of website for head meta tag"
-  Subtitle = "A subtitle for your site"
-  Avatar = "images/site-logo.svg"
-  Biography = "A short description, a few sentences describing the author. Set the 'ShowBio' parameter to false to hide this."
-  ShowBio = true
-  PermalinkText = "permalink"
-
-  # Contact/social-network identifiers for social icons
-  EmailAddress = "dan@oneill.la"
-  #FacebookUser = "FacebookUserName"
-  #FlickrUser = "FlickrUserName"
-  GitHubUser = "n3tfl0w"
-  #GitLabUser = "GitLabUserName"
-  #GlitchUser = "GlitchUserName"
-  #KeybaseUser = "KeybaseUserName"
-  #LinkedInUser = "LinkedInUserName"
-  MediumUser = "@dan_oneill"
-  #MicroBlogUser = "MicroBlogUserName"
-  RedditUser = "n3tfl0w"
-  StackOverflowUser = "3899241"
-  #TumblrUser = "TumblrUserName"
-  TwitterUser = "@dan_oneill"
-
-  # These are parameters used for indieweb identity. You should set these along
-  # with the above email/social network parameters.
-  [params.indieWeb]  
-    EmailAddress = "dan@oneill.la"
-    #FlickrUser = "FlickrUserName"
-    GitHubUser = "n3tfl0w"
-    TwitterUser = "@dan_oneill"
-    #MicroBlogUser = "MicroBlogUserName"
-    Country = "Ireland"
-    City = "Dublin"
-
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "whammer"
