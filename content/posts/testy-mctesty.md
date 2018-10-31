@@ -2,11 +2,12 @@
 Cover = "/uploads/741c452c558c177231617a8ade9d3e09.jpg"
 cover_alt = "An image"
 cover_caption = "This is a thing that needs to be done"
-cover_title = "Another thing"
+cover_title = "Another thing 2"
 date = "2018-10-26T14:54:34+00:00"
 description = "This is a testy test post"
 excerpt = false
 title = "Testy mcTesty"
+
 +++
 After a year with the OnePlus 5, I was close to the end of my contract with Vodafone. I wasn’t over the moon with my experience with them so decided to make the move to Three. Three had a deal with the Huawei P20 Pro, with a free set of wireless headphones - the Bose QC35 II (which I still haven’t received), so I decided to make the move. I’ve been using the phone as my primary device for 2 weeks now.
 
