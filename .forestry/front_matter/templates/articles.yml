@@ -27,4 +27,5 @@ fields:
   name: excerpt
   label: excerpt
 pages:
+- content/posts/thirdy-testy.md
 - content/posts/testy-mctesty.md
