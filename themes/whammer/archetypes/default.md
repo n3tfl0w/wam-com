@@ -1,7 +1,8 @@
 +++
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-Description: ""
+author:
+summary:
 Tags: []
 Categories: []
 +++
